@@ -1,5 +1,6 @@
 - 👋 Fala galera, de boa!? Eu sou Marcos Lenilson
-- 👀 Estudante da Kenzie Academy Brasil.
+- ❤ Estudante da Kenzie Academy Brasil.
+- 💻 Estudante de Analise e Desenvolvimente de Sistemas.
 - 🌱 Estudando atualmente JavaScript, Html e CSS.
 - 💻 Montando meu setup.
 
