@@ -33,3 +33,5 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoslenilson&layout=compact&langs_count=7&theme=dracula"/>
  
 </div> -->
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosLenilson&show_icons=true&theme=transparent)
