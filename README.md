@@ -12,7 +12,7 @@
 
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@marcos_futurodev)
 
-<h2> => TECNOLOGIAS QUE USO NO DIA A DIA - 🚀 Skills</h2>
+<h2> => ESTUDANDO SEMPRE! - 🚀 Skills</h2>
 <BR>
 
 
