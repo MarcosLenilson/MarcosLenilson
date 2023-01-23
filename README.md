@@ -1,7 +1,7 @@
 - 👋 Fala galera, de boa!? Eu sou Marcos Lenilson...
 - ❤ Estudante em Formação em Desenvolvimento Web Full Stack 
 - 💻 Estudante de Analise e Desenvolvimente de Sistemas ( 2º Semestre ).
-- 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS e PYTHON.
+- 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS, PYTHON e REACT.
 - 💻 Montando meu setup.
 
 <h2>=> REDES SOCIAIS - 👨 Social</h2>
