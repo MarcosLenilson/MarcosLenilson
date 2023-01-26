@@ -4,15 +4,6 @@
 - 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS, PYTHON e REACT.
 - 💻 Montando meu setup.
 
-
-
-<a href="https://github.com/MarcosLenilson/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosLenilson&repo=github-readme-stats" />
-</a>
-
-
-
-
 <h2>=> REDES SOCIAIS - 👨 Social</h2>
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_lenilson/)
@@ -37,3 +28,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLenilson&layout=compact)](https://github.com/MarcosLenilson/github-readme-stats)
   
   ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosLenilson&show_icons=true&theme=radical)
+
+  
+  <a href="https://github.com/MarcosLenilson/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosLenilson&repo=github-readme-stats" />
+  </a>
