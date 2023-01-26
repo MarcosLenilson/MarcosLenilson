@@ -4,6 +4,15 @@
 - 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS, PYTHON e REACT.
 - 💻 Montando meu setup.
 
+
+
+<a href="https://github.com/MarcosLenilson/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosLenilson&repo=github-readme-stats" />
+</a>
+
+
+
+
 <h2>=> REDES SOCIAIS - 👨 Social</h2>
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_lenilson/)
