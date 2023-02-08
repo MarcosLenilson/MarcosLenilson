@@ -26,11 +26,6 @@
   
 🙏 Sou apaixonado por tecnologia, e pretendo mudar vidas através de JESUS CRISTO e da programação !!
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLenilson&layout=compact)](https://github.com/MarcosLenilson)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLenilson&layout=)](https://github.com/MarcosLenilson)
   
-  ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosLenilson&show_icons=true&theme=radical)
-
-  
-  <a href="https://github.com/MarcosLenilson/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosLenilson&repo=github-readme-stats" />
-  </a>
+  ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosLenilson&show_icons=true&theme=)
