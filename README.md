@@ -1,16 +1,15 @@
 - 👋 Fala galera, de boa!? Eu sou Marcos Lenilson...
 - ❤ Estudante em Formação em Desenvolvimento Web Full Stack 
 - 💻 Estudante de Analise e Desenvolvimente de Sistemas ( 2º Semestre ).
-- 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS, PYTHON, REACT e TYPESCRIPT.
+- 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS, PYTHON, REACT, TYPESCRIPT e SQL.
 - 💻 Montando meu setup.
 
 <h2>=> REDES SOCIAIS - 👨 Social</h2>
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_lenilson/)
-
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-lenilson/)
-
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@marcos_futurodev)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoslenilsondev@gmail.com)
 
 <h2> => ESTUDANDO SEMPRE! - 🚀 Skills</h2>
 <BR>
