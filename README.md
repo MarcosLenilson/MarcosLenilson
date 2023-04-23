@@ -3,6 +3,7 @@
 - 💻 Estudante de Analise e Desenvolvimente de Sistemas ( 2º Semestre ).
 - 🌱 Estudando atualmente JAVASCRIPT, HTML, CSS, PYTHON, REACT, TYPESCRIPT e SQL.
 - 💻 Montando meu setup.
+- 🙏 Sou apaixonado por tecnologia, e pretendo mudar vidas através de JESUS CRISTO e da programação !!
 
 <h2>=> REDES SOCIAIS - 👨 Social</h2>
 
@@ -25,7 +26,7 @@
   
 
   
-🙏 Sou apaixonado por tecnologia, e pretendo mudar vidas através de JESUS CRISTO e da programação !!
+
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLenilson&layout=compact)](https://github.com/MarcosLenilson)
   
