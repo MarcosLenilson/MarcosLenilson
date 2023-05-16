@@ -29,6 +29,6 @@
   
 
   
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosLenilson&layout=compact)](https://github.com/MarcosLenilson)
   
   ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosLenilson&show_icons=true&theme=)
