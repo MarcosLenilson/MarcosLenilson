@@ -1,7 +1,7 @@
 - 👋 Fala galera, de boa!? Eu sou Marcos Lenilson...
 - ❤ Estudante em Formação em Desenvolvimento Web Full Stack 
 - 💻 Estudante de Analise e Desenvolvimente de Sistemas ( 3º Semestre ).
-- 🌱 Estudando atualmente PYTHON, JAVA, SPRING e SQL.
+- 🌱 Estudando atualmente PYTHON, JAVA, SPRING BOOT e SQL.
 - 💻 Montando meu setup.
 - 🙏 Sou apaixonado por tecnologia, e pretendo mudar vidas através de JESUS CRISTO e da programação !!
 
