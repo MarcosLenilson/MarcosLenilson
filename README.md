@@ -27,7 +27,10 @@
   
   
 <h2> => NOVA PAIXÃO! ❤ </h2>
-<BR>
+<BR> Cada dia que passa mais fascinado fico com essa linguagem e suas aplicações... Já passei por #python, 
+<BR> #Javascript, #Typescript entre outros, mas, nenhum me conquistou tanto quanto o #JAVA e o seu #framework #springboot .
+
+Estou estudando ainda, mas, já decidi que essa é pra ficar na minha vida rsrs. 😍
 
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
