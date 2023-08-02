@@ -1,7 +1,7 @@
 - 👋 Hey guys, cool!? I'm Marcos Lenilson...
 - ❤ Student in Full Stack Web Development Training
 - 💻 Systems Analysis and Development Student (3rd Semester).
-- 🌱 Currently studying JAVA, SPRING BOOT.
+- 🌱 Currently studying JAVA, SPRING FRAMEWORK, KOTLIN.
 - 💻 Setting up my setup.
 - 🙏 I am passionate about technology, and I intend to change lives through JESUS ​​CHRIST and programming !!
 
